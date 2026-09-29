@@ -1,7 +1,6 @@
 # Hi, I'm Jingl Van 👋
 
-**Postgraduate in Biomedical Engineering** @ City University of Hong Kong (Dongguan).
+**Master’s Student in Biomedical Engineering** @ City University of Hong Kong (Dongguan Campus)
 
-Focusing on **AI Agent development**: multi-agent orchestration, RAG, and Agent evaluation
-
-- 🎮 Tencent game-engine graphics program: cross-modal 3D retrieval evaluation
+Research interests: AI Agent development & orchestration, RAG system design, and Agent benchmark evaluation.
+- 🎮 Tencent Game‑Engine Graphics Research Project: Conducted evaluation for text‑image‑to‑3D multi‑modal embedding retrieval model.
