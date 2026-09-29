@@ -1,6 +1,6 @@
 # Hi, I'm Jingl Van 👋
 
-**MSc candidate in Biomedical Engineering** @ City University of Hong Kong (Dongguan).
+**Postgraduate in Biomedical Engineering** @ City University of Hong Kong (Dongguan).
 
 Focusing on **AI Agent development**: multi-agent orchestration, RAG, and Agent
 evaluation
